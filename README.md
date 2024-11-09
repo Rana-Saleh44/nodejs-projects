@@ -35,5 +35,4 @@ This repository contains a collection of Node.js projects and assignments from m
 ### How to Run a Project
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd project-folder
+   git clone https://github.com/Rana-Saleh44/nodejs-projects.git
